@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>distributed.system</groupId>
-    <artifactId>leader-election</artifactId>
+    <artifactId>distributed-system</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>LeaderElection</mainClass>
+                            <mainClass>Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
